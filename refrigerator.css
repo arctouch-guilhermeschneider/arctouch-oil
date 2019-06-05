@@ -26,7 +26,7 @@
   font-style: normal;
   font-weight: 300;
 }
-
+/* 
 @font-face {
   font-family: "refrigerator-deluxe";
   src: url("https://use.typekit.net/af/2c8c49/00000000000000003b9b38d4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3")
@@ -37,8 +37,8 @@
       format("opentype");
   font-style: normal;
   font-weight: 700;
-}
-
+} */
+/* 
 @font-face {
   font-family: "refrigerator-deluxe";
   src: url("https://use.typekit.net/af/fb86dd/00000000000000003b9b38d5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3")
@@ -49,7 +49,7 @@
       format("opentype");
   font-style: normal;
   font-weight: 800;
-}
+} */
 
 .tk-refrigerator-deluxe {
   font-family: "refrigerator-deluxe", sans-serif;

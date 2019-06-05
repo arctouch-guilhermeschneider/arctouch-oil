@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Walnut Hills",
+    "location": { "longitude": -74.5, "latitude": 42 },
+    "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+    "category": "park",
+    "details": "This is my favorite location."
+  }
+]
