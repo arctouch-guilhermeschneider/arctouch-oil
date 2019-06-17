@@ -1,3 +1,4 @@
+yarn-error.log
 refrigerator.css
 package-lock.json
 node_modules/framer/resource.d.ts
@@ -65,6 +66,7 @@ images/cursors/touch.png
 images/cursors/touch-active@2x.png
 images/cursors/touch-active.png
 design/images/vyWGd86NDTJptdilUrZcex3dP58.png
+design/images/uvHqBMPt5VOuFsUHqpIFJZsE6k.png
 design/images/KYJ2wsT2dEppybVtZSgodfrNM.png
 design/images/FPD146qwzFrzyCn7AS7cfDJ1c3k.png
 design/assets/location.json
